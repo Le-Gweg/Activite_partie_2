@@ -1,1 +1,3 @@
 ce fichier est créé en ligne directement sur gitHub
+
+puis modifié sur ma chine locale
