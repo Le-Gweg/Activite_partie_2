@@ -1,1 +1,3 @@
 Ce fichier ci est créé sur ma machine
+
+puis modifié en ligne sur github
